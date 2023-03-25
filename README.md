@@ -1,2 +1,2 @@
-# node-js-kurs
-kurs node-js pierwsze zadania
+# node-js-kurs-serwer
+kurs node-js pierwsze zadania z serwerem
