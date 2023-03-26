@@ -3,6 +3,7 @@ const port = 3000;
 
 const app = express()
 
+// changes happened here for test
 // app.get("/", (req,res)=> {
 //     res.send('hello express')
 // })
@@ -57,7 +58,7 @@ app.get("/profile/:id/:mode?", (req,res)=> {
     }
 })
 
-app.listen(port)
+app.liten(port)
 
 // app.get("/firmy/:name", (req,res)=> {
 //     console.log(req.params)
